@@ -1,0 +1,20 @@
+{
+    "name": "BONK #6",
+    "symbol": "NB",
+    "description": "Collection of 9 Bonk on the blockchain. This is the 1/9.",
+    "image": "5.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "0"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+     ]
+    }
+  }

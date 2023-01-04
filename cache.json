@@ -1,0 +1,81 @@
+{
+  "program": {
+    "candyMachine": "8zKnQ6D53o4Doatm9WN9zxHqzvBnAp6r31o9Ryicm758",
+    "candyMachineCreator": "2hahpxMcYcnjhNfiGZE8ESo15s32wcbhBdSsvkGxMfoL",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "BONK #1",
+      "image_hash": "0ccb2ea14b188228a6d3fbe4892a60ea115b2e22408809d02b0bb5f801a411d7",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/0.png",
+      "metadata_hash": "387cdf45ec06fcab88c0387b5617e2e375d3d32c274fa090ce4735d949000d17",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "BONK #2",
+      "image_hash": "43ce9ab486ae0ff3006b4907a0074254b4574dbcba5d4934438e826f4845ca11",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/1.png",
+      "metadata_hash": "ff538dcf5adc5ca73e843fc5458b837f72c690e908ed74bda72dafe9dd6fc1ee",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "BONK #3",
+      "image_hash": "26b8768b5b935a503975f9af222d2c10940edaee74cda3d6c21dcff97522ce9e",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/2.png",
+      "metadata_hash": "1166242b7e85d3071ce53bf69358f713e4ff2ad514177d34046f5a4d2770c63e",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "BONK #4",
+      "image_hash": "7699269c206fd42831d1c4c0026e97915354b3263db224025c0c87fa5ff900f7",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/3.png",
+      "metadata_hash": "7286a381ce037175c0a571b093a5a15b1ad0b7ccbe3164d33c8374604b2faa50",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "BONK #5",
+      "image_hash": "47ff75a3e7e755ce04148e37762ce9c1755d891812097212f819fba7e908fd54",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/4.png",
+      "metadata_hash": "18d50d3278584078f50dd4a5f03613b5fa8552613c2116abe3a0387798c042c1",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "BONK #6",
+      "image_hash": "ee89cd0e33d482b7e4f6c83c29e09c1c34acf4d172e1187cde755043375939af",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/5.png",
+      "metadata_hash": "ac41c75e41493655a5b918739281cb31b2deceee4422880e00a903a7a586e166",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "BONK #7",
+      "image_hash": "0b98a42d738fa00def0a667c6f7314edbbb44c2d7f5854e115eac1ef27a4936a",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/6.png",
+      "metadata_hash": "fd9bad8ba6b33ed94f82ebbdcaa7f4bbe68c99f8b5dfa723fdbbab96100f95d1",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/6.json",
+      "onChain": true
+    },
+    "7": {
+      "name": "BONK #8",
+      "image_hash": "cd63a6571ec76de60f9b4066ececd8131cea0f78b4fdd706540f1f8ad8e84567",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/7.png",
+      "metadata_hash": "45923265d44062a7d7cae3e32a1295b2483a1f436c485275f0c95014568607ac",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/7.json",
+      "onChain": true
+    },
+    "8": {
+      "name": "BONK #9",
+      "image_hash": "ff074fc2dea33d1063dad5570c0dd667e1bb5f977f5d2c4c8a6b603f7e8c24e4",
+      "image_link": "https://nftstorage.link/ipfs/bafybeihyuynte5myx7s4qjwxib7amlvguns3c6asjpvspvdx6td5qxtx3m/8.png",
+      "metadata_hash": "e9391ec15207038975230aecb1a2b6b82d324cd6c2ffd56e9c4869dcac5f3e24",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeibeqwybl3gpd3zbyml6r655egdnt45ecahhr6swnhfwkjttuknvea/8.json",
+      "onChain": true
+    }
+  }
+}
