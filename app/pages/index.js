@@ -19,7 +19,7 @@ const Home = () => {
 
 
             <div className="button-container">
-                <WalletMultiButton className="cta-button connect-wallet-button" />
+                <WalletMultiButtonDynamic className="cta-button connect-wallet-button" />
             </div>
         </div>
     );
