@@ -2,10 +2,21 @@ import React from "react";
 import CandyMachine from "../components/CandyMachine";
 import { useWallet } from "@solana/wallet-adapter-react";
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
+import dynamic from "next/dynamic";
 
 // Constants
 const TWITTER_HANDLE = "jfwson";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
+
+const WalletDisconnectButtonDynamic = dynamic(
+    async () => (await import('@solana/wallet-adapter-react-ui')).WalletDisconnectButton,
+    { ssr: false }
+);
+const WalletMultiButtonDynamic = dynamic(
+    async () => (await import('@solana/wallet-adapter-react-ui')).WalletMultiButton,
+    { ssr: false }
+);
+
 
 //https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif
 //https://media.giphy.com/media/6To7mnTymkfXlDEZjn/giphy.gif
